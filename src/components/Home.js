@@ -1,10 +1,12 @@
 import React from "react";
 import styled from "styled-components";
+import Header from "./Header";
 import Section from "./Section";
 
 function Home() {
   return (
     <Container>
+      <Header />
       <Section
         title="Model S"
         description="Order Online for Touchless Delivery"
