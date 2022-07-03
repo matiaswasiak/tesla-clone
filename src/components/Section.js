@@ -74,7 +74,7 @@ const LeftButton = styled.div`
 `;
 
 const RightButton = styled(LeftButton)`
-  background-color: white;
+  background-color: #ffffff;
   opacity: 0.65;
   color: black;
 `;
